@@ -138,6 +138,14 @@ I enjoy turning ideas into real-world applications and extracting insights from 
 🔗 [https://www.hackerrank.com/profile/gattithareeshku1]
 
 ---
+## 🏷️ Professional Badges
+
+![Java](https://img.shields.io/badge/Java-Expert-0d1117?style=for-the-badge&logo=openjdk&logoColor=orange)
+![React](https://img.shields.io/badge/React-Developer-0d1117?style=for-the-badge&logo=react&logoColor=61dafb)
+![Python](https://img.shields.io/badge/Python-Data%20Science-0d1117?style=for-the-badge&logo=python&logoColor=yellow)
+![Django](https://img.shields.io/badge/Django-Backend-0d1117?style=for-the-badge&logo=django&logoColor=green)
+![MongoDB](https://img.shields.io/badge/MongoDB-Database-0d1117?style=for-the-badge&logo=mongodb&logoColor=green)
+
 
 ## 🎓 Education
 
