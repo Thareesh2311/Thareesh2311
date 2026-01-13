@@ -79,7 +79,9 @@ I enjoy turning ideas into real-world applications and extracting insights from 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Thareesh2311&show_icons=true&theme=tokyonight" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Thareesh2311&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"
+  />
 </p>
 
 ---
