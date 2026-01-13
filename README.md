@@ -76,15 +76,6 @@ I enjoy turning ideas into real-world applications and extracting insights from 
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Thareesh2311&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"
-  />
-</p>
-
----
 
 ## 🔥 GitHub Streak
 
@@ -92,21 +83,8 @@ I enjoy turning ideas into real-world applications and extracting insights from 
   <img src="https://streak-stats.demolab.com?user=Thareesh2311&theme=tokyonight" />
 </p>
 
----
-
-## 📈 Top Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thareesh2311&layout=compact&theme=tokyonight" />
-</p>
-
----
 
 ## 🏆 Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Thareesh2311&theme=tokyonight&margin-w=15" />
-</p>
 
 - 🏅 Microsoft Data Science Certified  
 - 🏅 Deloitte Data Analytics Job Simulation  
@@ -145,11 +123,6 @@ I enjoy turning ideas into real-world applications and extracting insights from 
 ![Python](https://img.shields.io/badge/Python-Data%20Science-0d1117?style=for-the-badge&logo=python&logoColor=yellow)
 ![Django](https://img.shields.io/badge/Django-Backend-0d1117?style=for-the-badge&logo=django&logoColor=green)
 ![MongoDB](https://img.shields.io/badge/MongoDB-Database-0d1117?style=for-the-badge&logo=mongodb&logoColor=green)
-
-## 📊 Developer Stats
-<img src="assets/github-stats.svg" />
-
-<img src="assets/coding-stats.svg" />
 
 
 ## 🎓 Education
