@@ -8,7 +8,8 @@
 
 ## 👨‍💻 About Me
 
-I’m a **Java Full-Stack Developer and Data Science enthusiast** with strong foundations in core programming, MERN stack development, and analytical problem-solving.
+I’m a **Java Full-Stack Developer and Data Science enthusiast** with strong foundations in core programming, MERN stack development, and analytical problem-solving.  
+I enjoy turning ideas into real-world applications and extracting insights from data.
 
 - 🔭 Currently working on **Full-Stack & Data Science projects**
 - 🌱 Currently learning **Advanced DSA, Machine Learning & System Design**
@@ -37,13 +38,41 @@ I’m a **Java Full-Stack Developer and Data Science enthusiast** with strong fo
 
 ---
 
-## 🚀 Projects
+## 📌 Featured Projects
 
-- 🚗 **Car Rental System (Safe-Drive)** – React & Django  
-- ⚡ **Electric Billing System (Power Portal)** – React, Node.js, MongoDB  
-- 🧠 **Online Code Compiler** – React & Node.js  
-- 😂 **Joke Generator** – HTML, CSS, JavaScript  
-- ➕ **Simple Calculator** – HTML, CSS, JavaScript  
+### 🚗 Car Rental System (Safe-Drive)
+🔹 Full-stack rental management platform  
+🔹 **Tech:** React, Django  
+🔹 Features:
+- Customer & vehicle management
+- Expense tracking
+- Monthly revenue analytics  
+
+---
+
+### ⚡ Electric Billing System (Power Portal)
+🔹 Automated electricity billing platform  
+🔹 **Tech:** React, Node.js, MongoDB  
+🔹 Features:
+- Automated bill generation
+- Energy usage tracking
+- User-friendly dashboard  
+
+---
+
+### 🧠 Online Code Compiler
+🔹 Real-time code execution platform  
+🔹 **Tech:** React, Node.js  
+🔹 Supports:
+- C++
+- Java
+- Python  
+
+---
+
+### 😂 Joke Generator
+🔹 Lightweight JavaScript web app  
+🔹 Auto-fetches jokes using API  
 
 ---
 
@@ -71,28 +100,59 @@ I’m a **Java Full-Stack Developer and Data Science enthusiast** with strong fo
 
 ---
 
+## 🏆 Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Thareesh2311&theme=tokyonight&margin-w=15" />
+</p>
+
+- 🏅 Microsoft Data Science Certified  
+- 🏅 Deloitte Data Analytics Job Simulation  
+- ⭐ Consistent Learner & Project Builder  
+
+---
+
+## 🧑‍💻 Coding Profiles
+
+### LeetCode
+<p>
+  <img src="https://leetcard.jacoblin.cool/Thareesh2311?theme=dark&font=Karma&ext=contest" />
+</p>
+
+### HackerRank
+- ⭐ Python
+- ⭐ Java
+- ⭐ Problem Solving  
+
+🔗 https://www.hackerrank.com/profile/Thareesh2311
+
+---
+
 ## 🎓 Education
 
-**B.Tech – Malla Reddy University**  
-📅 2023 – 2027 | CGPA: **7.78**
+**Bachelor of Technology (B.Tech)**  
+📍 Malla Reddy University, Hyderabad  
+📅 2023 – 2027  
+📊 CGPA: **7.78**
 
 ---
 
 ## 💼 Experience
 
-### 📊 Data Science Intern — *iStudio* (Aug 2025 – Jan 2026)
+### 📊 Data Science Intern — *iStudio*  
+**Aug 2025 – Jan 2026 | Hyderabad**
 
 - Data cleaning, preprocessing & EDA using Python & Pandas  
 - Built predictive models & feature engineering pipelines  
-- Created reports and visual dashboards  
+- Created visualizations and analytical reports  
 
 ---
 
 ## 🌐 Connect With Me
 
 - 📧 Email: **gattithareeshkumar@gmail.com**
-- 💼 LinkedIn: [linkedin.com/in/thareesh-kumar](https://www.linkedin.com/in/thareesh-kumar-9484062a4)
-- 🐙 GitHub: [github.com/Thareesh2311](https://github.com/Thareesh2311)
+- 💼 LinkedIn: https://www.linkedin.com/in/thareesh-kumar-9484062a4
+- 🐙 GitHub: https://github.com/Thareesh2311
 
 ---
 
