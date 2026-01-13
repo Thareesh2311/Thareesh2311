@@ -101,9 +101,6 @@ I enjoy turning ideas into real-world applications and extracting insights from 
   <img src="https://leetcard.jacoblin.cool/thareesh_19?theme=dark&font=Karma&ext=contest" />
 </p>
 
-<p align="center">
-  <img src="https://leetcode-stats-six.vercel.app/api?username=thareesh_19&theme=dark" />
-</p>
 
 🔗 https://leetcode.com/u/thareesh_19/
 
