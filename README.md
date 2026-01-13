@@ -124,7 +124,7 @@ I enjoy turning ideas into real-world applications and extracting insights from 
 - ⭐ Java
 - ⭐ Problem Solving  
 
-🔗 https://www.hackerrank.com/profile/Thareesh2311
+🔗 [https://www.hackerrank.com/profile/Thareesh2311](https://www.hackerrank.com/profile/gattithareeshku1)
 
 ---
 
