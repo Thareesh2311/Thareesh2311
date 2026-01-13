@@ -146,6 +146,11 @@ I enjoy turning ideas into real-world applications and extracting insights from 
 ![Django](https://img.shields.io/badge/Django-Backend-0d1117?style=for-the-badge&logo=django&logoColor=green)
 ![MongoDB](https://img.shields.io/badge/MongoDB-Database-0d1117?style=for-the-badge&logo=mongodb&logoColor=green)
 
+## 📊 Developer Stats
+<img src="assets/github-stats.svg" />
+
+<img src="assets/coding-stats.svg" />
+
 
 ## 🎓 Education
 
