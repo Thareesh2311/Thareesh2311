@@ -115,16 +115,25 @@ I enjoy turning ideas into real-world applications and extracting insights from 
 ## 🧑‍💻 Coding Profiles
 
 ### LeetCode
-<p>
-  <img src="https://leetcard.jacoblin.cool/Thareesh2311?theme=dark&font=Karma&ext=contest" />
+## 🧑‍💻 LeetCode Stats
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/thareesh_19?theme=dark&font=Karma&ext=contest" />
 </p>
+
+<p align="center">
+  <img src="https://leetcode-stats-six.vercel.app/api?username=thareesh_19&theme=dark" />
+</p>
+
+🔗 https://leetcode.com/u/thareesh_19/
+
 
 ### HackerRank
 - ⭐ Python
 - ⭐ Java
 - ⭐ Problem Solving  
 
-🔗 [https://www.hackerrank.com/profile/Thareesh2311](https://www.hackerrank.com/profile/gattithareeshku1)
+🔗 [https://www.hackerrank.com/profile/gattithareeshku1]
 
 ---
 
