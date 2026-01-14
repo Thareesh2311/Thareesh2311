@@ -80,8 +80,9 @@ I enjoy turning ideas into real-world applications and extracting insights from 
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Thareesh2311&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com/?user=Thareesh2311&theme=tokyonight" alt="GitHub Streak"/>
 </p>
+
 
 
 ## 🏆 Achievements
