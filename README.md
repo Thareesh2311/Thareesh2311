@@ -1,3 +1,8 @@
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Thareesh2311/Thareesh2311/main/banner.svg" alt="Thareesh Kumar Banner"/>
+</p>
+
 # Hi there 👋 I'm Thareesh Kumar
 
 🎓 B.Tech Student at **Malla Reddy University, Hyderabad**  
