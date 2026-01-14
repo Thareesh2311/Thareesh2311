@@ -1,0 +1,29 @@
+<svg width="1200" height="300" viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1a1b26"/>
+      <stop offset="100%" stop-color="#24283b"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="300" fill="url(#grad)"/>
+
+  <text x="50%" y="45%" text-anchor="middle"
+        font-size="48" fill="#c0caf5"
+        font-family="Segoe UI, Arial, sans-serif"
+        font-weight="bold">
+    Thareesh Kumar
+  </text>
+
+  <text x="50%" y="60%" text-anchor="middle"
+        font-size="22" fill="#7aa2f7"
+        font-family="Segoe UI, Arial, sans-serif">
+    Java Full-Stack Developer • Data Science Enthusiast
+  </text>
+
+  <text x="50%" y="72%" text-anchor="middle"
+        font-size="16" fill="#9aa5ce"
+        font-family="Segoe UI, Arial, sans-serif">
+    React • Java • Python • Data Science • System Design
+  </text>
+</svg>
