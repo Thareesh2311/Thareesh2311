@@ -36,54 +36,42 @@ I enjoy turning ideas into real-world applications and extracting insights from 
   <img src="https://skillicons.dev/icons?i=python,git,github,vscode" />
 </p>
 
+**Libraries:** NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn
+
 ---
 
 ## 📌 Featured Projects
 
 ### 🚗 Car Rental System (Safe-Drive)
-🔹 Full-stack rental management platform  
-🔹 **Tech:** React, Django  
-🔹 Features:
-- Customer & vehicle management
-- Expense tracking
-- Monthly revenue analytics  
-
----
+- Full-stack rental management platform  
+- **Tech:** React, Django  
+- Customer & vehicle management  
+- Expense tracking and monthly revenue analytics  
 
 ### ⚡ Electric Billing System (Power Portal)
-🔹 Automated electricity billing platform  
-🔹 **Tech:** React, Node.js, MongoDB  
-🔹 Features:
-- Automated bill generation
-- Energy usage tracking
-- User-friendly dashboard  
-
----
+- Automated electricity billing platform  
+- **Tech:** React, Node.js, MongoDB  
+- Automated bill generation & energy usage tracking  
 
 ### 🧠 Online Code Compiler
-🔹 Real-time code execution platform  
-🔹 **Tech:** React, Node.js  
-🔹 Supports:
-- C++
-- Java
-- Python  
-
----
+- Real-time code execution platform  
+- **Tech:** React, Node.js  
+- Supports **C++, Java, Python**
 
 ### 😂 Joke Generator
-🔹 Lightweight JavaScript web app  
-🔹 Auto-fetches jokes using API  
+- Lightweight JavaScript web app  
+- Auto-fetches jokes using public API  
 
 ---
 
-
-## 🔥 GitHub Streak
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Thareesh2311&theme=tokyonight" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Thareesh2311&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://streak-stats.demolab.com/?user=Thareesh2311&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
-
+---
 
 ## 🏆 Achievements
 
@@ -93,27 +81,26 @@ I enjoy turning ideas into real-world applications and extracting insights from 
 
 ---
 
-## 🧑‍💻 Coding Profiles
-
-### LeetCode
 ## 🧑‍💻 LeetCode Stats
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/thareesh_19?theme=dark&font=Karma&ext=contest" />
 </p>
 
-
 🔗 https://leetcode.com/u/thareesh_19/
 
+---
 
-### HackerRank
-- ⭐ Python
-- ⭐ Java
+## 💻 HackerRank
+
+- ⭐ Python  
+- ⭐ Java  
 - ⭐ Problem Solving  
 
-🔗 [https://www.hackerrank.com/profile/gattithareeshku1]
+🔗 https://www.hackerrank.com/profile/gattithareeshku1
 
 ---
+
 ## 🏷️ Professional Badges
 
 ![Java](https://img.shields.io/badge/Java-Expert-0d1117?style=for-the-badge&logo=openjdk&logoColor=orange)
@@ -122,6 +109,7 @@ I enjoy turning ideas into real-world applications and extracting insights from 
 ![Django](https://img.shields.io/badge/Django-Backend-0d1117?style=for-the-badge&logo=django&logoColor=green)
 ![MongoDB](https://img.shields.io/badge/MongoDB-Database-0d1117?style=for-the-badge&logo=mongodb&logoColor=green)
 
+---
 
 ## 🎓 Education
 
@@ -139,7 +127,7 @@ I enjoy turning ideas into real-world applications and extracting insights from 
 
 - Data cleaning, preprocessing & EDA using Python & Pandas  
 - Built predictive models & feature engineering pipelines  
-- Created visualizations and analytical reports  
+- Created analytical dashboards and reports  
 
 ---
 
@@ -152,4 +140,5 @@ I enjoy turning ideas into real-world applications and extracting insights from 
 ---
 
 ## ⚡ Fun Fact
+
 I love converting **ideas → code** and **data → insights** 🚀
