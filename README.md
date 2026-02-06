@@ -120,7 +120,7 @@ I enjoy turning ideas into real-world applications and extracting insights from 
 **Bachelor of Technology (B.Tech)**  
 📍 Malla Reddy University, Hyderabad  
 📅 2023 – 2027  
-📊 CGPA: **7.78**
+📊 CGPA: **7.84**
 
 ---
 
