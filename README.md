@@ -102,7 +102,7 @@ I enjoy turning ideas into real-world applications and extracting insights from 
 - ⭐ Java  
 - ⭐ Problem Solving
 
-  <p align="center">
+<p align="center">
   <img src="https://hackerrank-stats.vercel.app/api?username=gattithareeshku1&theme=dark" />
 </p>
 
