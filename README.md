@@ -95,13 +95,23 @@ I enjoy turning ideas into real-world applications and extracting insights from 
 
 ---
 
+
 ## 💻 HackerRank
 
 - ⭐ Python  
 - ⭐ Java  
-- ⭐ Problem Solving  
+- ⭐ Problem Solving
 
 🔗 https://www.hackerrank.com/profile/gattithareeshku1
+
+---
+## 💻 CodeChef
+
+<p align="center">
+  <img src="https://codechef-readme-stats.vercel.app/api?username=band_trek_64&theme=dark" />
+</p>
+
+🔗 https://www.codechef.com/users/band_trek_64
 
 ---
 
