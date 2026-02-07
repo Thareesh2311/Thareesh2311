@@ -98,10 +98,6 @@ I enjoy turning ideas into real-world applications and extracting insights from 
 
 ## 💻 HackerRank
 
-- ⭐ Python  
-- ⭐ Java  
-- ⭐ Problem Solving
-
 <p align="center">
   <img src="https://hackerrank-stats.vercel.app/api?username=gattithareeshku1&theme=dark" />
 </p>
