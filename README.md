@@ -1,199 +1,182 @@
-<p align="center">
-  <img 
-    src="https://raw.githubusercontent.com/Thareesh2311/Thareesh2311/main/banner.svg" 
-    alt="Thareesh Kumar Banner"
-    width="100%"
-  />
-</p>
+Tech Stack:
+Python Pandas NLTK Scikit-learn TF-IDF Jupyter Notebook
 
-<h1 align="center">Hi 👋, I'm Thareesh Kumar</h1>
+🚗 Safe-Drive — Car Rental Management System
 
-<h3 align="center">
-  Java Full-Stack Developer • Data Science Enthusiast • Machine Learning Explorer
-</h3>
+Full-Stack Web Application
 
-<p align="center">
-  <a href="https://github.com/Thareesh2311">
-    <img src="https://komarev.com/ghpvc/?username=Thareesh2311&label=Profile%20Views&color=0e75b6&style=flat" />
-  </a>
-  <a href="https://github.com/Thareesh2311?tab=followers">
-    <img src="https://img.shields.io/github/followers/Thareesh2311?label=Followers&style=flat" />
-  </a>
-</p>
+A complete car rental management platform for managing customers, vehicles, bookings and business analytics.
 
-<p align="center">
-  <a href="https://linkedin.com/in/thareesh-kumar-9484062a4">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:gattithareeshkumar@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/Thareesh2311">
-    <img src="https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
+Features
+👤 Customer Management
+🚗 Vehicle Management
+📅 Booking Management
+💰 Expense Tracking
+📊 Revenue Analytics
+📈 Business Dashboard
+🔐 User Authentication
 
----
+Tech Stack:
+React Django Python SQLite
 
-## 👨‍💻 About Me
+⚡ Power Portal — Electric Billing System
 
-🎓 **B.Tech — Data Science** student at **Malla Reddy University, Hyderabad**
+Electricity Billing & Energy Management Platform
 
-💻 **Java Full-Stack Developer** with experience building modern web applications using React, Node.js and Django.
+A full-stack electricity billing application designed to manage electricity usage, billing records and payment information.
 
-📊 **Data Science Enthusiast** focused on data analysis, Natural Language Processing, Machine Learning and extracting meaningful insights from real-world datasets.
+Features
+⚡ Electricity Usage Tracking
+🧾 Automated Bill Generation
+📊 Consumption Analytics
+💳 Payment Management
+📜 Billing History
+📈 Usage Visualization
+🔐 User Authentication
 
-🚀 I enjoy transforming **ideas into applications** and **data into intelligent solutions**.
+Tech Stack:
+React Node.js MongoDB
 
-### 🔭 Currently Working On
+💻 Online Code Compiler
 
-- 🚀 Full-Stack Web Applications
-- 🧠 Machine Learning & NLP Projects
-- 📊 Data Science & Analytics
-- 🌐 REST API Development
-- 🏗️ Scalable Backend Architecture
+Browser-Based Code Execution Platform
 
-### 🌱 Currently Learning
+A web-based coding environment that allows users to write and execute programs directly from the browser.
 
-- Advanced DSA
-- Machine Learning
-- Natural Language Processing
-- System Design
-- Cloud & Deployment
+Supported Languages
 
-### 💬 Ask Me About
+C++ Java Python
 
-`Java` `Python` `React` `Django` `Node.js` `Data Science` `Machine Learning`
+Features
+📝 Online Code Editor
+⚡ Real-Time Code Execution
+📤 Custom Input
+📥 Output Display
+💻 Multi-Language Support
 
----
+Tech Stack:
+React Node.js
 
-# 🛠️ Tech Stack
+📊 GitHub Analytics
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Thareesh2311&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" />
 
-## 💻 Programming Languages
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thareesh2311&layout=compact&theme=tokyonight&hide_border=true" height="180" />
 
-<p>
-  <img src="https://skillicons.dev/icons?i=java,python,javascript,c,cpp,sql" />
-</p>
+</p> <p align="center"> <img src="https://streak-stats.demolab.com/?user=Thareesh2311&theme=tokyonight&hide_border=true" height="180" /> </p>
+🧠 Coding & Problem Solving
+🟨 LeetCode
+<p align="center"> <img src="https://leetcard.jacoblin.cool/thareesh_19?theme=dark&font=Karma&ext=contest" alt="LeetCode Stats" /> </p> <p align="center"> <a href="https://leetcode.com/u/thareesh_19/"> <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode&logoColor=white"/> </a> </p>
+🟩 HackerRank
+<p align="center"> <img src="https://hackerrank-stats.vercel.app/api?username=gattithareeshku1&theme=dark" alt="HackerRank Stats" /> </p> <p align="center"> <a href="https://www.hackerrank.com/profile/gattithareeshku1"> <img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/> </a> </p>
+🟧 CodeChef
+<p align="center"> <img src="https://codechef-readme-stats.vercel.app/api?username=band_trek_64&theme=dark" alt="CodeChef Stats" /> </p> <p align="center"> <a href="https://www.codechef.com/users/band_trek_64"> <img src="https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/> </a> </p>
+🏆 Certifications & Achievements
+🏅 Microsoft Data Science Certification
 
----
+Demonstrated knowledge of Data Science, analytics and Machine Learning concepts.
 
-## 🌐 Frontend Development
+🏅 Deloitte Data Analytics Job Simulation
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,html,css,bootstrap" />
-</p>
+Completed practical data analytics and business problem-solving tasks.
 
-- React.js
-- JavaScript
-- HTML5
-- CSS3
-- Bootstrap
-- React Router
-- REST API Integration
+⭐ Continuous Project Builder
 
----
+Building projects across:
 
-## ⚙️ Backend Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,django" />
-</p>
-
-- Node.js
-- Express.js
-- Django
-- REST APIs
-- Authentication
-- Backend Architecture
-
----
-
-## 🗄️ Databases
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite" />
-</p>
-
-- MongoDB
-- MySQL
-- SQLite
-
----
-
-## 📊 Data Science & Machine Learning
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python" />
-</p>
-
-### Libraries
-
-`NumPy` `Pandas` `Matplotlib` `Seaborn` `Scikit-learn` `NLTK`
-
-### Areas
-
-- Exploratory Data Analysis
-- Data Cleaning
-- Data Preprocessing
-- Feature Engineering
-- Natural Language Processing
-- Sentiment Analysis
-- Machine Learning
-- Model Evaluation
-- Data Visualization
-
----
-
-## 🔧 Tools & Platforms
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux" />
-</p>
-
----
-
-# 🚀 Featured Projects
-
-## 🧠 AutoPulse — Used Car Review Intelligence
-
-> **NLP • Machine Learning • Data Analytics**
-
-An end-to-end sentiment analysis project designed to analyze customer reviews of **Cars24 and Spinny**.
-
-### 🔍 Key Features
-
-- 📥 Review collection from **Trustpilot and Google Play Store**
-- 🔗 Dataset integration from multiple sources
-- 🧹 Data cleaning and preprocessing
-- 🔤 Tokenization and lemmatization
-- 📊 Exploratory Data Analysis
-- 🧠 TF-IDF feature extraction
-- 🤖 Machine Learning-based sentiment classification
-- 📈 Model comparison and evaluation
-- 🚗 Cars24 vs Spinny sentiment comparison
-- 🔎 Positive, Negative and Neutral sentiment analysis
-
-### 🧪 Machine Learning Pipeline
-
-```text
-Customer Reviews
-       ↓
-Data Collection
-       ↓
-Data Integration
-       ↓
-Data Cleaning
-       ↓
-Text Preprocessing
-       ↓
-Exploratory Data Analysis
-       ↓
-Feature Engineering
-       ↓
-TF-IDF
-       ↓
+Full-Stack Development
+        ↓
+Data Science
+        ↓
 Machine Learning
-       ↓
-Model Evaluation
-       ↓
-Sentiment Prediction
+        ↓
+Natural Language Processing
+        ↓
+Real-World Applications
+💼 Experience
+📊 Data Science Intern — iStudio
+
+Aug 2025 – Jan 2026 | Hyderabad
+
+Performed data cleaning and preprocessing using Python and Pandas
+Conducted Exploratory Data Analysis on real-world datasets
+Worked on feature engineering and predictive modeling
+Created analytical dashboards and reports
+Extracted meaningful insights from structured datasets
+Applied data-driven approaches to business problems
+🎓 Education
+Bachelor of Technology — Data Science
+
+Malla Reddy University, Hyderabad
+
+📅 2023 – 2027
+
+📊 CGPA: 7.84
+
+📚 Current Learning Path
+                    ┌─────────────────────┐
+                    │    DATA SCIENCE     │
+                    └──────────┬──────────┘
+                               │
+              ┌────────────────┼────────────────┐
+              ↓                ↓                ↓
+       Machine Learning       NLP          Data Analytics
+              │                │                │
+              ↓                ↓                ↓
+        Model Building    Sentiment       Visualization
+              │            Analysis            │
+              └────────────────┼────────────────┘
+                               ↓
+                       Intelligent Apps
+                               ↓
+                        Full-Stack + AI
+Currently Improving
+🧠 Advanced Machine Learning
+🤖 Natural Language Processing
+🧩 Advanced DSA
+🏗️ System Design
+🌐 Backend Architecture
+☁️ Cloud Deployment
+🚀 Production-Level Applications
+🎯 2026 Goals
+ 🚀 Build production-ready applications
+ 🤖 Deploy an end-to-end Machine Learning application
+ 🧠 Master Advanced DSA
+ 🏗️ Learn System Design
+ ☁️ Explore Cloud Technologies
+ 🌍 Contribute to Open Source
+ 💼 Prepare for Software Engineering & Data Science roles
+ 📈 Build a strong portfolio of real-world projects
+🤝 Let's Collaborate
+
+I'm interested in collaborating on:
+
+<p align="center">
+
+🤖 Artificial Intelligence
+
+📊 Data Science
+
+🧠 Machine Learning
+
+💬 NLP
+
+🌐 Full-Stack Development
+
+☁️ Cloud Applications
+
+🚀 Open Source
+
+</p>
+
+If you're building something interesting, let's connect and build it together! 🚀
+
+🌐 Connect With Me
+<p align="center"> <a href="mailto:gattithareeshkumar@gmail.com"> <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://www.linkedin.com/in/thareesh-kumar-9484062a4"> <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://github.com/Thareesh2311"> <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> </p>
+🏷️ Professional Badges
+<p align="center"> <img src="https://img.shields.io/badge/Java-Developer-orange?style=for-the-badge&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/Python-Data%20Science-yellow?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/React-Developer-61DAFB?style=for-the-badge&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/Django-Backend-092E20?style=for-the-badge&logo=django&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-Backend-339933?style=for-the-badge&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-Database-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/Machine%20Learning-Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/> </p>
+📈 GitHub Contribution
+<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Thareesh2311&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" /> </p>
+🐍 Contribution Snake
+<p align="center"> <img src="https://raw.githubusercontent.com/Thareesh2311/Thareesh2311/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" /> </p>
+⚡ Fun Fact
+<p align="center"> <b> I love converting ideas → code → data → insights → real-world solutions. 🚀 </b> </p> <p align="center"> <b>Thanks for visiting my profile! ⭐</b> </p> <p align="center"> <i>Keep building. Keep learning. Keep shipping. 🚀</i> </p> ```
