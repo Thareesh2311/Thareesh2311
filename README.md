@@ -39,19 +39,161 @@
 
 🎓 **B.Tech — Data Science** student at **Malla Reddy University, Hyderabad**
 
-💻 **Java Full-Stack Developer** with experience building web applications using React, Node.js and Django.
+💻 **Java Full-Stack Developer** with experience building modern web applications using React, Node.js and Django.
 
-📊 **Data Science Enthusiast** focused on data analysis, NLP, machine learning and turning raw data into meaningful insights.
+📊 **Data Science Enthusiast** focused on data analysis, Natural Language Processing, Machine Learning and extracting meaningful insights from real-world datasets.
 
-🚀 I enjoy building projects that combine **software engineering + data + intelligent systems**.
+🚀 I enjoy transforming **ideas into applications** and **data into intelligent solutions**.
+
+### 🔭 Currently Working On
+
+- 🚀 Full-Stack Web Applications
+- 🧠 Machine Learning & NLP Projects
+- 📊 Data Science & Analytics
+- 🌐 REST API Development
+- 🏗️ Scalable Backend Architecture
+
+### 🌱 Currently Learning
+
+- Advanced DSA
+- Machine Learning
+- Natural Language Processing
+- System Design
+- Cloud & Deployment
+
+### 💬 Ask Me About
+
+`Java` `Python` `React` `Django` `Node.js` `Data Science` `Machine Learning`
+
+---
+
+# 🛠️ Tech Stack
+
+## 💻 Programming Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,javascript,c,cpp,sql" />
+</p>
+
+---
+
+## 🌐 Frontend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,html,css,bootstrap" />
+</p>
+
+- React.js
+- JavaScript
+- HTML5
+- CSS3
+- Bootstrap
+- React Router
+- REST API Integration
+
+---
+
+## ⚙️ Backend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,django" />
+</p>
+
+- Node.js
+- Express.js
+- Django
+- REST APIs
+- Authentication
+- Backend Architecture
+
+---
+
+## 🗄️ Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite" />
+</p>
+
+- MongoDB
+- MySQL
+- SQLite
+
+---
+
+## 📊 Data Science & Machine Learning
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+### Libraries
+
+`NumPy` `Pandas` `Matplotlib` `Seaborn` `Scikit-learn` `NLTK`
+
+### Areas
+
+- Exploratory Data Analysis
+- Data Cleaning
+- Data Preprocessing
+- Feature Engineering
+- Natural Language Processing
+- Sentiment Analysis
+- Machine Learning
+- Model Evaluation
+- Data Visualization
+
+---
+
+## 🔧 Tools & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux" />
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+## 🧠 AutoPulse — Used Car Review Intelligence
+
+> **NLP • Machine Learning • Data Analytics**
+
+An end-to-end sentiment analysis project designed to analyze customer reviews of **Cars24 and Spinny**.
+
+### 🔍 Key Features
+
+- 📥 Review collection from **Trustpilot and Google Play Store**
+- 🔗 Dataset integration from multiple sources
+- 🧹 Data cleaning and preprocessing
+- 🔤 Tokenization and lemmatization
+- 📊 Exploratory Data Analysis
+- 🧠 TF-IDF feature extraction
+- 🤖 Machine Learning-based sentiment classification
+- 📈 Model comparison and evaluation
+- 🚗 Cars24 vs Spinny sentiment comparison
+- 🔎 Positive, Negative and Neutral sentiment analysis
+
+### 🧪 Machine Learning Pipeline
 
 ```text
-┌──────────────────────────────────────────────────────────────┐
-│                         THAREESH KUMAR                       │
-├──────────────────────────────────────────────────────────────┤
-│  🎓 B.Tech Data Science                                     │
-│  💻 Java Full-Stack Development                             │
-│  📊 Data Science & Machine Learning                         │
-│  🧠 NLP & Sentiment Analysis                                │
-│  🚀 Full-Stack Application Development                      │
-└──────────────────────────────────────────────────────────────┘
+Customer Reviews
+       ↓
+Data Collection
+       ↓
+Data Integration
+       ↓
+Data Cleaning
+       ↓
+Text Preprocessing
+       ↓
+Exploratory Data Analysis
+       ↓
+Feature Engineering
+       ↓
+TF-IDF
+       ↓
+Machine Learning
+       ↓
+Model Evaluation
+       ↓
+Sentiment Prediction
