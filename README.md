@@ -63,9 +63,13 @@ I enjoy turning ideas into real-world applications and extracting insights from 
 - **Tech:** React, Node.js  
 - Supports **C++, Java, Python**
 
-### 😂 Joke Generator
-- Lightweight JavaScript web app  
-- Auto-fetches jokes using public API  
+### 🧠 AutoPulse — Sentiment Analysis of Used Car Reviews
+- End-to-end **NLP and Machine Learning** project analyzing customer reviews of **Cars24 and Spinny**
+- Collected reviews from **Trustpilot and Google Play Store** and created a unified dataset
+- Performed **text preprocessing, tokenization, lemmatization, EDA, and feature engineering**
+- Implemented **TF-IDF** for text feature extraction and trained multiple ML models for sentiment classification
+- Compared **Positive, Negative, and Neutral** customer sentiment between Cars24 and Spinny
+- Evaluated models using **Accuracy, Precision, Recall, F1-Score, and Confusion Matrix**
 
 ---
 
