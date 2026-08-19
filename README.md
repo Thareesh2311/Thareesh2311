@@ -11,7 +11,6 @@
 </p>
 
 ---
-
 ## 👨‍💻 About Me
 
 I'm a **Java Full-Stack Developer and Data Science enthusiast** with strong foundations in core programming, MERN stack development, and analytical problem-solving. I enjoy turning ideas into real-world applications and extracting insights from data.
