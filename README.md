@@ -9,7 +9,6 @@
 💻 Java Full-Stack Developer&nbsp;&nbsp;|&nbsp;&nbsp;
 📊 Data Science Enthusiast
 </p>
-
 ---
 ## 👨‍💻 About Me
 
