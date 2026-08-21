@@ -19,7 +19,6 @@ I'm a **Java Full-Stack Developer and Data Science enthusiast** with strong foun
 - 👯 Looking to collaborate on **Open Source & Real-World Projects**
 - 💬 Ask me about **Java, React, Python, Data Science**
 - 📍 Hyderabad, India
-
 ---
 
 ## 🛠️ Tech Stack
