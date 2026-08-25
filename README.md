@@ -3,7 +3,6 @@
 </p>
 
 <h1 align="center">Hi there, I'm Thareesh Kumar 👋</h1>
-
 <p align="center">
 🎓 B.Tech Student @ Malla Reddy University, Hyderabad&nbsp;&nbsp;|&nbsp;&nbsp;
 💻 Java Full-Stack Developer&nbsp;&nbsp;|&nbsp;&nbsp;
