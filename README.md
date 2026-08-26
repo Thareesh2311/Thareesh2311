@@ -113,7 +113,6 @@ Real-time code execution platform.
 ---
 
 ## 🏷️ Badges
-
 ![Java](https://img.shields.io/badge/Java-Expert-0d1117?style=for-the-badge&logo=openjdk&logoColor=orange)
 ![React](https://img.shields.io/badge/React-Developer-0d1117?style=for-the-badge&logo=react&logoColor=61dafb)
 ![Python](https://img.shields.io/badge/Python-Data%20Science-0d1117?style=for-the-badge&logo=python&logoColor=yellow)
